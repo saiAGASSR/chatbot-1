@@ -1,0 +1,16 @@
+                <div className="mt-2 ml-2  flex flex-row flex-nowrap   gap-2 overflow-auto no-scrollbar  p-0.5 w-[95%]">
+                {/* <div className="mt-2 ml-2 grid grid-rows-3 grid-flow-col  gap-3 overflow-x-auto"> */}
+
+                        {filtersBySelectedType.map(item=>{
+                            return (
+                            <div className=''>
+                                <button className={` w-max   font-semibold font-sans text-sm  bg-transparent hover:bg-grey-500 ${item.selected ? 'text-black' : 'text-white'} font-semibold hover:${item.selected ? 'text-black' : 'text-white'} py-1.5 px-1.5 border border-white hover:scale-[1.010] rounded-xl transition duration-700 ease-in-out  ${item.selected && selectedBgColor}`} key={item.value} onClick={()=>handleSelectedFilters(item.value)}>
+                                    {item.value}
+                                </button>
+
+                            </div>
+
+                            )
+                        })}
+
+                </div>

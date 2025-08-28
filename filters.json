@@ -1,0 +1,217 @@
+{
+  "8GT-1Wc-vDn-SvY" : 
+      {  
+          "moviesConfig": 
+                      [
+
+                          { "value": "English", "type": "language", "selected": false },
+                          { "value": "Hindi", "type": "language", "selected": false },
+                          { "value": "Telugu", "type": "language", "selected": false },
+                          { "value": "Tamil", "type": "language", "selected": false },
+                          { "value": "Malayalam", "type": "language", "selected": false },
+                          { "value": "Kannada", "type": "language", "selected": false },
+                          { "value": "Punjabi", "type": "language", "selected": false },
+                          { "value": "Marathi", "type": "language", "selected": false },
+                          { "value": "Bengali", "type": "language", "selected": false },
+                          { "value": "Gujarati", "type": "language", "selected": false },
+
+
+                          { "value": "Adventure", "type": "genre", "selected": false },
+                          { "value": "Mystery", "type": "genre", "selected": false },
+                          { "value": "Comedy", "type": "genre", "selected": false },
+                          { "value": "Talkshow", "type": "genre", "selected": false },
+                          { "value": "ComedyHorror", "type": "genre", "selected": false },
+                          { "value": "RomanceThriller", "type": "genre", "selected": false },
+                          { "value": "Music", "type": "genre", "selected": false },
+                          { "value": "Action", "type": "genre", "selected": false },
+                          { "value": "Thriller", "type": "genre", "selected": false },
+                          { "value": "Romance", "type": "genre", "selected": false },
+                          { "value": "Family", "type": "genre", "selected": false },
+                          { "value": "Crime", "type": "genre", "selected": false },
+                          { "value": "Devotional", "type": "genre", "selected": false },
+                          { "value": "History", "type": "genre", "selected": false },
+
+
+
+                    { "value": "Sony LIV", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/sonyliv-network-1697115578150.jpeg"},
+                    { "value": "MX Player", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/amazon-mx-player-network-1748353023034.png"},
+                    { "value": "ZEE5", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/zee5-network-1749351564748.png"},
+                    { "value": "JioHotstar", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/hotstar-network-1739525832770.png"},
+                    { "value": "LionsGatePlay", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/lionsgateplay-network-1730792398403.jpeg"},
+                    { "value": "Sun NXT", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/sunnxt-network-1726572453923.png"},
+                    { "value": "Fancode", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/fancode-network-1697115485326.png"},
+                    { "value": "Manorama Max", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/manorama-max-network-1697115517148.jpeg"},
+                    { "value": "Adda Times", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/addatimes-network-1744365486623.jpeg"},
+                    { "value": "Chaupal", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/chaupal-network-1697115167918.png"},
+                    { "value": "Kanccha Kannka", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/kanccha-lannka-network-1742394194227.jpeg"},
+                    { "value": "Atrangi", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/Atrangii_white_sq_512.png"},
+                    { "value": "NammaFlix", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/nammaflix-network-1697115533188.png"},
+                    { "value": "DistroTV", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/distro-network-1700732027376.png"},
+                    { "value": "Shemaroo me", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/shemaroo-network-1697115550952.png"},
+                    { "value": "pocket films", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/pocketfilms-network-1697115413149.png"},
+                    { "value": "YuppTV", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/yupptv-network-1697646117148.jpeg"},
+                    { "value": "NextG TV", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/nextg-tv-network-1701506855580.png"}  ],
+
+    "tvSeriesConfig": 
+                      [                          
+                          { "value": "English", "type": "language", "selected": false },
+                          { "value": "Hindi", "type": "language", "selected": false },
+                          { "value": "Telugu", "type": "language", "selected": false },
+                          { "value": "Tamil", "type": "language", "selected": false },
+                          { "value": "Malayalam", "type": "language", "selected": false },
+                          { "value": "Kannada", "type": "language", "selected": false },
+                          { "value": "Punjabi", "type": "language", "selected": false },
+                          { "value": "Marathi", "type": "language", "selected": false },
+                          { "value": "Bengali", "type": "language", "selected": false },
+                          { "value": "Gujarati", "type": "language", "selected": false },
+
+
+
+                          { "value": "Actioncomedy", "type": "genre", "selected": false },
+                          { "value": "Serials", "type": "genre", "selected": false },
+                          { "value": "Biographical", "type": "genre", "selected": false },
+                          { "value": "Drama", "type": "genre", "selected": false },
+                          { "value": "Crime", "type": "genre", "selected": false },
+                          { "value": "Korean", "type": "genre", "selected": false },
+                          { "value": "Entertainment", "type": "genre", "selected": false },
+                          { "value": "Fantasy", "type": "genre", "selected": false },
+                          { "value": "Religious", "type": "genre", "selected": false },
+                          { "value": "Neo-noir", "type": "genre", "selected": false },
+                          { "value": "Anime", "type": "genre", "selected": false },
+                          { "value": "War", "type": "genre", "selected": false },
+                          { "value": "Gameshow", "type": "genre", "selected": false },
+                          { "value": "Reality", "type": "genre", "selected": false },
+                          { "value": "Event", "type": "genre", "selected": false },
+                          { "value": "Shorts", "type": "genre", "selected": false },
+                          { "value": "Food", "type": "genre", "selected": false },
+                          { "value": "Celebrities", "type": "genre", "selected": false },
+                          { "value": "Kids", "type": "genre", "selected": false },
+                          { "value": "Animation", "type": "genre", "selected": false },
+                          { "value": "Musical", "type": "genre", "selected": false },
+                          { "value": "Sports", "type": "genre", "selected": false },
+                          { "value": "Action", "type": "genre", "selected": false },
+                          { "value": "Romance", "type": "genre", "selected": false },
+                          { "value": "Comedy", "type": "genre", "selected": false },
+                          { "value": "Family", "type": "genre", "selected": false },
+
+
+
+
+
+                    { "value": "Sony LIV", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/sonyliv-network-1697115578150.jpeg"},
+                    { "value": "MX Player", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/amazon-mx-player-network-1748353023034.png"},
+                    { "value": "ZEE5", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/zee5-network-1749351564748.png"},
+                    { "value": "JioHotstar", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/hotstar-network-1739525832770.png"},
+                    { "value": "LionsGatePlay", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/lionsgateplay-network-1730792398403.jpeg"},
+                    { "value": "Sun NXT", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/sunnxt-network-1726572453923.png"},
+                    { "value": "Fancode", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/fancode-network-1697115485326.png"},
+                    { "value": "Manorama Max", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/manorama-max-network-1697115517148.jpeg"},
+                    { "value": "Adda Times", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/addatimes-network-1744365486623.jpeg"},
+                    { "value": "Chaupal", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/chaupal-network-1697115167918.png"},
+                    { "value": "Kanccha Kannka", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/kanccha-lannka-network-1742394194227.jpeg"},
+                    { "value": "Atrangi", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/Atrangii_white_sq_512.png"},
+                    { "value": "NammaFlix", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/nammaflix-network-1697115533188.png"},
+                    { "value": "DistroTV", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/distro-network-1700732027376.png"},
+                    { "value": "Shemaroo me", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/shemaroo-network-1697115550952.png"},
+                    { "value": "pocket films", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/pocketfilms-network-1697115413149.png"},
+                    { "value": "YuppTV", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/yupptv-network-1697646117148.jpeg"},
+                    { "value": "NextG TV", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/nextg-tv-network-1701506855580.png"}
+                      ],
+
+
+    "liveConfig": 
+                [
+                    { "value": "English", "type": "language", "selected": false },
+                    { "value": "Hindi", "type": "language", "selected": false },
+                    { "value": "Telugu", "type": "language", "selected": false },
+                    { "value": "Tamil", "type": "language", "selected": false },
+                    { "value": "Malayalam", "type": "language", "selected": false },
+                    { "value": "Kannada", "type": "language", "selected": false },
+                    { "value": "Punjabi", "type": "language", "selected": false },
+                    { "value": "Marathi", "type": "language", "selected": false },
+                    { "value": "Bengali", "type": "language", "selected": false },
+                    { "value": "Gujarati", "type": "language", "selected": false },
+
+
+
+                  { "value": "entertainment", "type": "genre", "selected": false },
+                  { "value": "news", "type": "genre", "selected": false },
+                  { "value": "updates", "type": "genre", "selected": false },
+                  { "value": "headlines", "type": "genre", "selected": false },
+                  { "value": "devotional", "type": "genre", "selected": false },
+                  { "value": "music", "type": "genre", "selected": false },
+                  { "value": "religious", "type": "genre", "selected": false },
+                  { "value": "lifestyle", "type": "genre", "selected": false },
+                  { "value": "asian", "type": "genre", "selected": false },
+                  { "value": "sports", "type": "genre", "selected": false },
+                  { "value": "musical", "type": "genre", "selected": false },
+                  { "value": "travel", "type": "genre", "selected": false },
+                  { "value": "infotainment", "type": "genre", "selected": false },
+                  { "value": "currentaffairs", "type": "genre", "selected": false },
+                  { "value": "songs", "type": "genre", "selected": false },
+                  { "value": "nature", "type": "genre", "selected": false },
+                  { "value": "politics", "type": "genre", "selected": false },
+                  { "value": "blogs", "type": "genre", "selected": false },
+                  { "value": "spiritual", "type": "genre", "selected": false },
+                  { "value": "kids", "type": "genre", "selected": false },
+                  { "value": "badminton", "type": "genre", "selected": false },
+                  { "value": "kabaddi", "type": "genre", "selected": false },
+                  { "value": "hockey", "type": "genre", "selected": false },
+                  { "value": "boxing", "type": "genre", "selected": false },
+                  { "value": "sport", "type": "genre", "selected": false },
+
+
+
+                    { "value": "Sony LIV", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/sonyliv-network-1697115578150.jpeg"},
+                    { "value": "MX Player", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/amazon-mx-player-network-1748353023034.png"},
+                    { "value": "ZEE5", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/zee5-network-1749351564748.png"},
+                    { "value": "JioHotstar", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/hotstar-network-1739525832770.png"},
+                    { "value": "LionsGatePlay", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/lionsgateplay-network-1730792398403.jpeg"},
+                    { "value": "Sun NXT", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/sunnxt-network-1726572453923.png"},
+                    { "value": "Fancode", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/fancode-network-1697115485326.png"},
+                    { "value": "Manorama Max", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/manorama-max-network-1697115517148.jpeg"},
+                    { "value": "Adda Times", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/addatimes-network-1744365486623.jpeg"},
+                    { "value": "Chaupal", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/chaupal-network-1697115167918.png"},
+                    { "value": "Kanccha Kannka", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/kanccha-lannka-network-1742394194227.jpeg"},
+                    { "value": "Atrangi", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/Atrangii_white_sq_512.png"},
+                    { "value": "NammaFlix", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/nammaflix-network-1697115533188.png"},
+                    { "value": "DistroTV", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/distro-network-1700732027376.png"},
+                    { "value": "Shemaroo me", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/shemaroo-network-1697115550952.png"},
+                    { "value": "pocket films", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/pocketfilms-network-1697115413149.png"},
+                    { "value": "YuppTV", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/yupptv-network-1697646117148.jpeg"},
+                    { "value": "NextG TV", "type": "partner", "selected": false ,"src":"https://d1m9cbe6bfhh6i.cloudfront.net/content/patners/network/images/nextg-tv-network-1701506855580.png"}
+                ]
+      },
+      
+              "fancy_queries" : 
+    
+                    [
+                        "Impressive selection! You’ve got a flair for Mystery movies in English from  Amazon Prime Video partner",
+                        "That’s a power-packed preference —   Mystery English movies from  Amazon Prime Video partner.",
+                        "Sharp eye! Mystery  English movies from  Amazon Prime Video partner coming right up",
+                        "Fantastic choice! I’m tracking down the finest English Mystery movies from  Amazon Prime Video partner",
+                        "That’s a cinematic-threat! English Mystery movies from  Amazon Prime Video partner — preparing your top picks right now."
+                    ],
+              "multiple_selection_fancy_choice" : [ 
+                        "Your  choices are 🔥 Get ready for a wild ride!",
+                        "Whoa! That’s a power move. Let’s make it epic!",
+                        "Buckle up! Something legendary is loading for you...",
+                        "Oh, you’ve got taste! Now watch the magic unfold.",
+                        "That’s a killer combo! Time to hit play and chill.",
+                        "Nice pick! We’re cooking up something special for you.",
+                        "Your watchlist is about to glow ✨ Stay tuned!",
+                        "Big choices, big fun! Let’s roll the reels.",
+                        "Ready for the ultimate binge? We’ve got you covered!",
+                        "You’re officially in the cool zone. Let’s make it cinematic!",
+                        "Your picks unlocked a secret cinematic door. Enter?",
+                        "Something awesome is on the way… Just for you.",
+                        "You’ve stirred the algorithm… now watch what happens.",
+                        "Hang tight! Your OTT universe is taking shape.",
+                        "You just set the stage for a blockbuster experience.",
+                        "That’s the spirit! Showtime soon.",
+                        "Crazy good picks! Here we go…"
+                     ]
+
+}
+
+
